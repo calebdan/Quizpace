@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizpace</string>
+    <string name="username">Name</string>
+    <string name="btn_go">Go</string>
+    <string name="greetings">Hey, There!</string>
+    <string name="intro_msg">Start by first telling us your name</string>
+</resources>
